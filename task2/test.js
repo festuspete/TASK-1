@@ -4,7 +4,7 @@ let largest = 0
 
 for(let i=0; i<numbers.length; i++){
     if (numbers[i] > largest) {
-        largest = array[i]
+        largest = numbers[i]
     }
 }
 alert(`output: ${largest}`);
