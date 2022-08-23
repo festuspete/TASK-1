@@ -10,4 +10,6 @@ for(let i=0; i<numbers.length; i++){
         highest = numbers[i]
     }
 } 
-console.log(highest);
+
+//Use the alert command
+alert(`output: ${largest}`);
