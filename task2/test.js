@@ -12,4 +12,4 @@ for(let i=0; i<numbers.length; i++){
 } 
 
 //Use the alert command
-alert(`output: ${largest}`);
+alert(`output: ${highest}`);
